@@ -1,7 +1,7 @@
 const projects = [
     {
         title: "CrewCall",
-        description: "Crewcall es una app mobile creada para la comunicación eficiente entre owners de yates grandes con su tripulacion..",
+        description: "Crewcall es una app mobile creada para la comunicación eficiente entre owners de yates grandes con su tripulación.",
         tags: ["Python", "Tailwind", "JavaScript"],
         longTags: ["HTML", "Tailwind", "JavaScript", "Capacitor", "Sql", "Firebase", "Node"],
         longDescription: "Crewcall es una aplicación móvil creada para facilitar la comunicación eficiente entre los propietarios (owners) de grandes yates y su tripulación. A través de la aplicación, los owners pueden enviar mensajes a la tripulación, solicitar servicios y gestionar distintas tareas. Está desarrollada principalmente con tecnologías web para el frontend y Python para el backend, y posteriormente se empaqueta mediante la librería Capacitor para su despliegue en dispositivos iOS y Android. La aplicación cuenta con un sistema de roles, notificaciones push, creación y envío de tareas (no en tiempo real), gestión de fotos de perfil, recuperación de cuenta, entre otras funcionalidades.",
@@ -10,7 +10,7 @@ const projects = [
     },
     {
         title: "YoloV8nano",
-        description: "Pruebas usando la IA de deccion de objetos en tiempo real YOLOv8nano...",
+        description: "Pruebas usando la IA de detección de objetos en tiempo real YOLOv8nano...",
         tags: ["React", "Expo"],
         longTags: ["React", "Expo", "Tailwind"],
         longDescription: "Se trata de una aplicación sencilla creada para probar la inteligencia artificial de detección de objetos en tiempo real mediante YOLOv8nano. La desarrollé con el objetivo de experimentar con nuevas tecnologías para mí, como React Native y Expo, además de explorar su integración en una aplicación móvil.",
@@ -20,7 +20,7 @@ const projects = [
     },
     {
         title: "TFG PHP",
-        description: "Una aplicacion para una empresa que realizaba todo el proceso de firmas sobre partes (constancias de trabajo) en papel...",
+        description: "Una aplicación para una empresa que realizaba todo el proceso de firmas sobre partes (constancias de trabajo) en papel...",
         tags: ["PHP", "Sql", "JavaScript"],
         longTags: ["HTML", "Tailwind", "JavaScript", "Sql"],
         longDescription: "Desarrollé una aplicación para una empresa que digitaliza todo el proceso de firma de partes de trabajo (constancias de trabajo), sustituyendo el flujo tradicional en papel. La aplicación permite tanto a administradores como a trabajadores firmar documentos de forma digital, así como consultar el histórico de partes de manera organizada. Está diseñada para dos departamentos distintos, adaptando pequeños aspectos de la interfaz según el rol del usuario que inicia sesión. La aplicación está desarrollada con HTML, Tailwind CSS, JavaScript y PHP.",
